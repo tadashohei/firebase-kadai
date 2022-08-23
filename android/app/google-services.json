@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908367675237",
+    "project_id": "kadai-firebase-4527f",
+    "storage_bucket": "kadai-firebase-4527f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908367675237:android:5e8e8bd45c99144c786b8c",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908367675237-9c0f98dmrbgmu96g7llvg088ji3m3ng7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIMUe4YwESKVytgEH7K3cWKTyZBUbm_eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908367675237-9c0f98dmrbgmu96g7llvg088ji3m3ng7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
