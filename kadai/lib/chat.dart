@@ -107,7 +107,7 @@ class _ChatUiState extends State<ChatUi> {
   Widget postCard(Map<String, dynamic> chatData) {
     return Card(
       color:
-          (chatData['id'] == widget.userId ? Colors.greenAccent : Colors.white),
+          (chatData['id'] == widget.userId ? Colors.tealAccent : Colors.white),
       child: ListTile(
         //tileColor:tileColor, //( ismyState ? Colors.greenAccent : Colors.white),
         leading: const Icon(Icons.people),
